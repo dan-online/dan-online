@@ -22,8 +22,6 @@
 <br />
 <br />
 
-Hey, I’m DanCodes, a 16 year old Developer based in England. Computer science is my passion and I love being able to solve problems with programming.
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private" alt="DanCodes's github stats" />
 </a>
