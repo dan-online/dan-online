@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/dan-online/dancodes/master/assets/me-round.png" width="100" style="border-radius:50%">
+
 # Hi there, I'm [DanCodes!](https://dancodes.online) 👋
 
 <a href="https://api.dancodes.online/api/v2/link/twitter">
