@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dan-online/dancodes/master/assets/me-round.png" width="100" style="border-radius:50%">
+<img src="https://dancodes.online/assets/images/favicon.png" width="100">
 
 # Hi there, I'm [DanCodes!](https://dancodes.online) 👋
 
