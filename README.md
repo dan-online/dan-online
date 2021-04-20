@@ -1,5 +1,3 @@
-<img src="https://dancodes.online/assets/images/favicon.png" width="100">
-
 # Hi there, I'm [DanCodes!](https://dancodes.online) 👋
 
 <a href="https://api.dancodes.online/api/v2/link/twitter">
