@@ -1,7 +1,6 @@
 # Hi there, I'm [DanCodes!](https://dancodes.online) 👋
 
 ![DanCodes ReadMe Stats](https://github-readme-stats.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only)
-![DanCodes ReadMe Stats](https://github-readme-stats.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true#gh-light-mode-only)
 
 ---
 
