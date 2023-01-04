@@ -1,6 +1,12 @@
 # Hi there, I'm [DanCodes](https://dancodes.online) 👋
 
-![DanCodes Readme Stats](https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
+  <img alt="DanCodes Readme Stats" src="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
+</picture>
+
+<!-- ![DanCodes Readme Stats](https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark) -->
 <!-- ![DanCodes Readme Stats](https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only) -->
 <!-- ![DanCodes Readme Stats](https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light#gh-light-mode-only) -->
 #
