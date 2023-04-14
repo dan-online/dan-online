@@ -1,9 +1,9 @@
 # Hi there, I'm [DanCodes](https://dancodes.online) 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
-  <img alt="DanCodes Readme Stats" src="https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
+  <img alt="DanCodes Readme Stats" src="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
 </picture>
 
 <!-- ![DanCodes Readme Stats](https://github-readme-stats-dan-online.vercel.app/api?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=dark) -->
