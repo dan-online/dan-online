@@ -6,8 +6,12 @@
   <img alt="DanCodes Readme Stats" src="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
 </picture>
 
+
+
 <details>
-  <summary>Software I use</summary>
+  <summary>
+    <h4>💻 My Software Stack</h4>
+  </summary>
 
   <h4>Frontend</h4>
 
