@@ -31,12 +31,13 @@
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express" alt="express" /></a>
-<a href="https://www.fastify.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/fastify-%23009639.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
+<a href="https://www.fastify.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/fastify-%23009639.svg?style=for-the-badge&logo=fastify&logoColor=white" alt="fastify" /></a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" /></a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="redis" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /></a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rust-%23CE412B.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust" /></a>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" /></a>
 
 <h4>Cloud</h4>
 
