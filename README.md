@@ -5,12 +5,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
   <img alt="DanCodes Readme Stats" src="https://github-stats.dancodes.online/?username=dan-online&show_icons=true&include_all_commits=true&count_private=true&theme=light">
 </picture>-->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://edge-readme-stats.dancodes.online/stats?username=dan-online&theme=dark">
   <source media="(prefers-color-scheme: light)" srcset="https://edge-readme-stats.dancodes.online/stats?username=dan-online">
   <img alt="DanCodes Readme Stats" src="https://edge-readme-stats.dancodes.online/stats?username=dan-online&theme=dark">
-</picture>
+</picture> -->
 
+<img src="https://edge-readme-stats.dancodes.online/stats?username=dan-online" alt="DanCodes Readme Stats"/>
 
 <details>
   <summary>
