@@ -11,13 +11,14 @@
   <img alt="DanCodes Readme Stats" src="https://edge-readme-stats.dancodes.online/stats?username=dan-online&theme=dark">
 </picture> -->
 
-<img src="https://edge-readme-stats.dancodes.online/stats?username=dan-online" alt="DanCodes Readme Stats"/>
+<a href="https://github.com/dan-online/edge-readme-stats" target="_blank" rel="noreferrer">
+  <img src="https://edge-readme-stats.dancodes.online/stats?username=dan-online" alt="DanCodes Readme Stats"/>
+</a>
 
 <details>
   <summary>
     <h4>💻 My Software Stack</h4>
   </summary>
-
   <h4>Frontend</h4>
 
 <a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/sveltekit-%23ffffff.svg?style=for-the-badge&logo=svelte" alt="sveltekit" /></a>
